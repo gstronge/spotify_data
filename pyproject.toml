@@ -1,0 +1,16 @@
+[project]
+name = "week2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "jupyter>=1.1.1",
+    "kaggle>=1.7.4.5",
+    "matplotlib>=3.10.3",
+    "mlflow>=2.22.0",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "xgboost>=3.0.0",
+]
