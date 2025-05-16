@@ -1,0 +1,17 @@
+# .gitignore
+
+.DS_Store
+.vscode/
+
+/other/
+/data/
+/mlruns/
+/.venv/
+/fairness/
+
+# *.csv
+
+/__pycache__/
+
+find_the_model.py
+
